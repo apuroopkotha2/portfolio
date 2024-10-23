@@ -12,22 +12,22 @@ I’m a Data Scientist and AI Enthusiast with a passion for transforming data in
 
 ## Education
 - **Master's of Science in Data Science**,
-***Northeastern University, 2022 - 2024***
+- Northeastern University, 2022 - 2024
 
 - **Bachelor's of Technology, Computer Science**,
-- ***Sathyabama University, 2016 - 2020***
+- Sathyabama University, 2016 - 2020
 
 ## Work Experience
 - **Data Scientist Intern**
-- ***Bond.AI***
-- ***June 2024 - August 2024***
+- ***Bond.AI***, June 2024 - August 2024
+  
 •	Conducted A/B testing and model evaluation on budgeting data using Scikit-learn to optimize predictive models for consumer expenditure based on spending patterns and transaction datasets. 
 •	Automated the extraction, transformation, and loading (ETL) of housing, census, and consumer data using APIs and, streamlining the data pull process by python for efficient analysis and ensuring large-scale data integration.
 •	Integrated consumer spending models into production, focusing on scalability and performance using TensorFlow and GCP, facilitating the analysis in relation to the CPI index and other state-level indicators.
 
 - **Data Scientist**
-- ***LatentView Analytics***
-- ***April 2020 - September 2022***
+- ***LatentView Analytics***, April 2020 - September 2022
+  
 •	Designed and deployed scalable AWS infrastructure, integrating S3, RDS, and Redshift to optimize large-scale data pipelines for machine learning operations.
 •	Developed and implemented Radial Basis Neural Networks (RBNN) and Custom Text Classifiers, enhancing automated data categorization accuracy by leveraging unsupervised clustering algorithms.
 •	Optimized data preprocessing using SQL, Python, Hive, and Presto, reducing data query processing time by 30% and ensuring high-quality data for ML models.
@@ -37,14 +37,14 @@ I’m a Data Scientist and AI Enthusiast with a passion for transforming data in
 •	Collaborated with cross-functional teams to gather requirements, design scalable ML architectures, and deliver data-driven insights for business decision-making.
 
 - **Data Analyst Intern**
-- ***Mahsa University***
-- ***April 2019 - September 2019***
+- ***Mahsa University***, April 2019 - September 2019
+  
 •	Conducted time series analysis on biomedical data using Python, improving disease prediction models by 30% through the application of machine learning.
 •	Developed interactive Tableau dashboards to visualize health data trends, enhancing stakeholders’ ability to explore complex datasets dynamically.
 
 - **Data Analyst Intern**
-- ***Virchow Biotech***
-- ***April 2018 - September 2018***
+- ***Virchow Biotech***, April 2018 - September 2018
+  
 •	Conducted time series analysis on biomedical data using Python, improving disease prediction models by 30% through the application of machine learning.
 •	Developed interactive Tableau dashboards to visualize health data trends, enhancing stakeholders’ ability to explore complex datasets dynamically.
 
