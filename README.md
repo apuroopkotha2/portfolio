@@ -12,7 +12,7 @@ I’m a Data Scientist and AI Enthusiast with a passion for transforming data in
 
 ## Education
 - **Master's of Science in Data Science**,
-- ***Northeastern University, 2022 - 2024***
+***Northeastern University, 2022 - 2024***
 
 - **Bachelor's of Technology, Computer Science**,
 - ***Sathyabama University, 2016 - 2020***
