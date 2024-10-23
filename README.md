@@ -19,7 +19,7 @@ I’m a Data Scientist and AI Enthusiast with a passion for transforming data in
 
 ## Work Experience
 
-### Data Scientist Intern  
+*Data Scientist Intern*
 **Bond.AI**  
 *June 2024 - August 2024*  
 - Conducted A/B testing and model evaluation on budgeting data using Scikit-learn to optimize predictive models for consumer expenditure based on spending patterns and transaction datasets. 
