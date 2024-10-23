@@ -1,5 +1,10 @@
 title: Apuroop Kotha
-logo: /assets:img/apuroop.png
+logo: /assets/apuroop.png
 #description: text below image
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
+
+# Additional button for downloading resume
+nav:
+  - title: "Resume"
+    url: "https://github.com/apuroopkotha2/portfolio/tree/main/assets/resume.pdf"

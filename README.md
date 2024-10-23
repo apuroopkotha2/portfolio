@@ -12,14 +12,14 @@ I’m a Data Scientist and AI Enthusiast with a passion for transforming data in
 
 ## Education
 - **Master's of Science in Data Science**,
-- Northeastern University, 2022 - 2024
+  Northeastern University, 2022 - 2024
 
 - **Bachelor's of Technology, Computer Science**,
-- Sathyabama University, 2016 - 2020
+  Sathyabama University, 2016 - 2020
 
 ## Work Experience
 
-### Data Scientist Intern  
+### Data Scientist Intern
 **Bond.AI**  
 *June 2024 - August 2024*  
 - Conducted A/B testing and model evaluation on budgeting data using Scikit-learn to optimize predictive models for consumer expenditure based on spending patterns and transaction datasets. 
