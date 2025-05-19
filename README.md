@@ -20,9 +20,8 @@ I’m a Data Scientist and AI Enthusiast with a passion for transforming data in
 ## Work Experience
 
 ### Data Analyst
-
-**DaVita Inc.,**
-*Jan 2025 - Present* 
+**DaVita Inc.,**  
+*January 2025 - Present* 
 - Developed and optimized SQL views, stored procedures, and queries to enhance data processing efficiency, resulting in a 20% reduction in query execution time and improved reporting accuracy for cross-functional teams.
 - Created and published advanced Tableau dashboards with complex calculations, such as LOD expressions and multi-sheet layouts, delivering actionable insights that improved operational decision-making by 30%.
 - Collaborated with stakeholders to understand business requirements and translated them into tailored data visualizations, enabling faster and more informed decisions across departments.
