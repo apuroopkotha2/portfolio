@@ -19,7 +19,8 @@ I’m a Data Scientist and AI Enthusiast with a passion for transforming data in
 
 ## Work Experience
 
-### Data Analyst 
+### Data Analyst
+
 **DaVita Inc.,**
 *Jan 2025 - Present* 
 - Developed and optimized SQL views, stored procedures, and queries to enhance data processing efficiency, resulting in a 20% reduction in query execution time and improved reporting accuracy for cross-functional teams.
